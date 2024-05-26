@@ -1,4 +1,4 @@
-# STM32_Oled
+# STM32_LCD-Oled
 Programming STM32F103C8T8 with LCD Oled Display
 
 ## LCD Oled 1306
