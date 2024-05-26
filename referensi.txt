@@ -1,0 +1,11 @@
+Oled Display Generator : https://rickkas7.github.io/DisplayGenerator/index.html
+
+Library List:
+Adafruit_BusIO
+Adafruit_SSD1306_STM32
+SPI
+Wire
+
+font convertion to GFX Adafruit font : https://rop.nl/truetype2gfx/
+Image2CPP tool: https://javl.github.io/image2cpp/
+
