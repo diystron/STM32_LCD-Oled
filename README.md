@@ -40,6 +40,8 @@ STM32 PinOut
 
 <img src="https://github.com/diystron/STM32_Oled/blob/main/image/Stm32f103_pinout_diagram.png"/>
 
+STM32 to LCD Oled Wiring
+
 | STM32 | LCD Oled |
 | ----- | -------- |
 | 3.3V | VCC |
