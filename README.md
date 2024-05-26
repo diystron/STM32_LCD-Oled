@@ -27,5 +27,8 @@ I2C/IIC Interface, need 2 IO only
 Driver IC: SSD1306
 
 ## Image
-<img src="https://github.com/diystron/" border-radius="50%" width="200" height="200"/> 
+Display Image
+<img src="https://github.com/diystron/STM32_Oled/blob/main/image/display3.png" />
 
+Divice Image
+<img src="https://github.com/diystron/STM32_Oled/blob/main/image/device.jpg" width:300 hight:200 />
