@@ -29,7 +29,7 @@ Driver IC: SSD1306
 ## Image
 Display Image
 
-<img src="https://github.com/diystron/STM32_Oled/blob/main/image/display3.png" width:100 hight:50 />
+<img src="https://github.com/diystron/STM32_Oled/blob/main/image/display3.png" width:128 hight:64 />
 
 Divice Image
 
