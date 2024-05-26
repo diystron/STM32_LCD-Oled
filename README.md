@@ -33,4 +33,4 @@ Display Image
 
 Divice Image
 
-<img src="https://github.com/diystron/STM32_Oled/blob/main/image/device.jpg" width:100 hight:50 />
+<img src="https://github.com/diystron/STM32_Oled/blob/main/image/device.jpg" width:50 hight:30 />
