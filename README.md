@@ -34,3 +34,13 @@ Display Image
 Divice Image
 
 <img src="https://github.com/diystron/STM32_Oled/blob/main/image/device.jpg" width="500" height="250" />
+
+## Wiring
+----------------------------
+ STM32             LCD Oled
+----------------------------
+ 3.3V              VCC
+ B6                SCK
+ B7                SDA
+ GND               GND
+ ---------------------------
