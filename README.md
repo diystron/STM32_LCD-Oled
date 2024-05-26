@@ -37,11 +37,19 @@ Divice Image
 
 ## Wiring
 STM32 PinOut
+
 <img src="https://github.com/diystron/STM32_Oled/blob/main/image/Stm32f103_pinout_diagram.png"/>
 
- STM32             LCD Oled
- 3.3V              VCC
- B6                SCK
- B7                SDA
- GND               GND
+-------------------------------
 
+ STM32             LCD Oled
+ 
+ 3.3V              VCC
+ 
+ B6                SCK
+ 
+ B7                SDA
+ 
+ GND               GND
+ 
+------------------------------
